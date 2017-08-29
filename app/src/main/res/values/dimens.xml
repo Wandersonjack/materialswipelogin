@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_hi">120dp</dimen>
+    <dimen name="colap">2dp</dimen>
+</resources>
