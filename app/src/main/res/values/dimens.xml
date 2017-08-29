@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="tab_hi">120dp</dimen>
+    <dimen name="tab_hi">100dp</dimen>
     <dimen name="colap">2dp</dimen>
+    <dimen name="tab_indicator">4dp</dimen>
 </resources>
