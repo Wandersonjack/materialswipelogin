@@ -3,4 +3,5 @@
     <dimen name="tab_hi">100dp</dimen>
     <dimen name="colap">2dp</dimen>
     <dimen name="tab_indicator">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>

@@ -12,4 +12,5 @@
     <string name="lembrar_senha">Lembrar senha</string>
     <string name="btn_recuperar">Recuperar senha</string>
     <string name="txt_intrucao">Digite um email valido e enviaremos um email com as instruções para recuperar sua senha</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>

@@ -1,6 +1,5 @@
 package com.firebaseapp.wanderson_jackson.powerlogsignupapp;
 
-import android.content.res.ColorStateList;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -31,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        pager = (ViewPager) findViewById(R.id.viewpager);
+        pager = (ViewPager) findViewById(R.id.viewpager_home);
         setupViewPager(pager);
 
         tabs = (TabLayout) findViewById(R.id.tabs);
